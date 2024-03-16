@@ -1,4 +1,4 @@
-nomeHeroi = "JinWoo";
+nomeHeroi = "RobimRu";
 quantExperiencia = 8500
 
 if (quantExperiencia <=1000){
